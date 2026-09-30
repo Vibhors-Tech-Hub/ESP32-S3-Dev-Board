@@ -33,3 +33,6 @@ This project utilizes a standard **4-layer stackup** designed to minimize electr
 ## Manufacturing & Assembly Notes
 * **PCB Thickness:** 1.6 mm
 * **Material:** FR-4 (High TG150+ recommended due to the RF component thermal profile)
+
+
+<img width="1152" height="648" alt="ESP32 S3" src="https://github.com/user-attachments/assets/e6115d3e-af28-4fec-9da3-ca13b3086132" />
